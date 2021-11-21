@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mechcraft:blocks/rubber_wood_top",
+    "up": "mechcraft:blocks/rubber_wood_top",
+    "north": "mechcraft:blocks/log_wood_side",
+    "east": "mechcraft:blocks/log_wood_side",
+    "south": "mechcraft:blocks/log_wood_side",
+    "west": "mechcraft:blocks/log_wood_side",
+    "particle": "mechcraft:blocks/rubber_wood_top"
+  }
+}

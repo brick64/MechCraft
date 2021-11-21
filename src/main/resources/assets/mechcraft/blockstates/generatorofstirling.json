@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mechcraft:block/generatorofstirling"
+    },
+    "facing=east": {
+      "model": "mechcraft:block/generatorofstirling",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mechcraft:block/generatorofstirling",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mechcraft:block/generatorofstirling",
+      "y": 270
+    }
+  }
+}

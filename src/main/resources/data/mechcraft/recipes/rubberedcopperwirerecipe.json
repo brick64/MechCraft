@@ -1,0 +1,24 @@
+{
+  "group": "mechcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mechcraft:resin"
+    },
+    "1": {
+      "item": "mechcraft:copperwire"
+    },
+    "2": {
+      "item": "mechcraft:resin"
+    }
+  },
+  "result": {
+    "item": "mechcraft:resinnedcopperwire",
+    "count": 1
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Copperore",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperore"
+    },
+    {
+      "name": "RubberWood",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_wood"
+    },
+    {
+      "name": "RubberLeaves",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_leaves"
+    },
+    {
+      "name": "Rubber",
+      "type": "structure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber"
+    },
+    {
+      "name": "Copperingot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperingot"
+    },
+    {
+      "name": "Coppering",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coppering"
+    },
+    {
+      "name": "Resin",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resin"
+    },
+    {
+      "name": "Resinrecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resinrecipe"
+    },
+    {
+      "name": "Wirecutter",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wirecutter"
+    },
+    {
+      "name": "Wirecutterrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wirecutterrecipe"
+    },
+    {
+      "name": "Copperhot",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperhot"
+    },
+    {
+      "name": "Copperwirerecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperwirerecipe"
+    },
+    {
+      "name": "Copperhotrecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperhotrecipe"
+    },
+    {
+      "name": "Resinnedcopperwire",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resinnedcopperwire"
+    },
+    {
+      "name": "Generatorofstirling",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "generatorofstirling"
+    },
+    {
+      "name": "Generatorofstirlinggui",
+      "type": "gui",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "generatorofstirlinggui"
+    },
+    {
+      "name": "Rfchangingcoal",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rfchangingcoal",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Copperwire",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperwire"
+    },
+    {
+      "name": "Rubberedcopperwirerecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubberedcopperwirerecipe"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "RF",
+      "type": "number",
+      "scope": "map",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "item.mechcraft.wirecutter": "Выдавливатель проводов",
+      "block.mechcraft.rubber_wood": "Дерево резины",
+      "block.mechcraft.generatorofstirling": "Генератор стирлинга",
+      "item.mechcraft.copperhot": "Нагретая медь",
+      "item.mechcraft.copperingot": "Медный слиток",
+      "block.mechcraft.resinnedcopperwire": "Покрытый резиной медный провод",
+      "item.mechcraft.resin": "Резина",
+      "block.mechcraft.rubber_leaves": "Rubber Leaves",
+      "block.mechcraft.copperore": "Медная руда",
+      "item.mechcraft.copperwire": "Copperwire"
+    },
+    "en_us": {
+      "item.mechcraft.wirecutter": "Wirecutter",
+      "block.mechcraft.rubber_wood": "Rubber Wood",
+      "block.mechcraft.generatorofstirling": "Generatorofstirling",
+      "item.mechcraft.copperhot": "Hot Copper",
+      "item.mechcraft.copperingot": "Copper Ingot",
+      "block.mechcraft.resinnedcopperwire": "Resinned Copper Wire",
+      "item.mechcraft.resin": "Resin",
+      "block.mechcraft.rubber_leaves": "Rubber Leaves",
+      "block.mechcraft.copperore": "Copper ore",
+      "item.mechcraft.copperwire": "Copperwire"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mechcraft",
+    "modName": "MechCraft",
+    "version": "1.0.0",
+    "author": "Nikita, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.mechcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

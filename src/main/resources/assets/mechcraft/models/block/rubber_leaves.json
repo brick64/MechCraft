@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mechcraft:blocks/rubber_leaves",
+    "up": "mechcraft:blocks/rubber_leaves",
+    "north": "mechcraft:blocks/rubber_leaves",
+    "east": "mechcraft:blocks/rubber_leaves",
+    "south": "mechcraft:blocks/rubber_leaves",
+    "west": "mechcraft:blocks/rubber_leaves",
+    "particle": "mechcraft:blocks/rubber_leaves"
+  }
+}

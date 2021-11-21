@@ -1,0 +1,22 @@
+{
+  "group": "mechcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mechcraft:wirecutter"
+    },
+    "1": {
+      "item": "mechcraft:copperhot"
+    },
+    "2": {
+      "item": "mechcraft:copperhot"
+    }
+  },
+  "result": {
+    "item": "mechcraft:deleted_mod_element",
+    "count": 1
+  }
+}

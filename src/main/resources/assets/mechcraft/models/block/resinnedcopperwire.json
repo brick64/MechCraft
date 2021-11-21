@@ -1,0 +1,9 @@
+{
+  "parent": "mechcraft:custom/resinned_copper_wire",
+  "textures": {
+    "all": "mechcraft:blocks/resiined_copper_wire",
+    "particle": "mechcraft:blocks/resiined_copper_wire",
+    "1": "mechcraft:blocks/rubbered_copper_wire_texture2",
+    "2": "mechcraft:blocks/rubbered_copper_wire_texture1"
+  }
+}

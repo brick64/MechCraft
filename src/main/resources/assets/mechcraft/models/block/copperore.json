@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mechcraft:blocks/coper_ore",
+    "up": "mechcraft:blocks/coper_ore",
+    "north": "mechcraft:blocks/coper_ore",
+    "east": "mechcraft:blocks/coper_ore",
+    "south": "mechcraft:blocks/coper_ore",
+    "west": "mechcraft:blocks/coper_ore",
+    "particle": "mechcraft:blocks/coper_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mechcraft:blocks/generator_of_stirling_side",
+    "up": "mechcraft:blocks/generator_of_stirling_side",
+    "north": "mechcraft:blocks/generator_of_stirling_front",
+    "east": "mechcraft:blocks/generator_of_stirling_side",
+    "south": "mechcraft:blocks/generator_of_stirling_side",
+    "west": "mechcraft:blocks/generator_of_stirling_side",
+    "particle": "mechcraft:blocks/generator_of_stirling_side"
+  }
+}

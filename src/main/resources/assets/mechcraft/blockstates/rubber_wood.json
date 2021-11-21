@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mechcraft:block/rubber_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mechcraft:block/rubber_wood"
+    },
+    "axis=z": {
+      "model": "mechcraft:block/rubber_wood",
+      "x": 90
+    }
+  }
+}

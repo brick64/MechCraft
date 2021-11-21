@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "rubbered_copper_wire_texture2",
+        "2": "rubbered_copper_wire_texture1"
+      },
+      "name": "default"
+    }
+  }
+}

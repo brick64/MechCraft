@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mechcraft:block/resinnedcopperwire"
+    },
+    "facing=east": {
+      "model": "mechcraft:block/resinnedcopperwire",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mechcraft:block/resinnedcopperwire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mechcraft:block/resinnedcopperwire",
+      "y": 270
+    }
+  }
+}
